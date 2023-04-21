@@ -1,0 +1,18 @@
+.btn-primary, .btn-primary:hover, .btn-primary:active, .btn-primary:visited {
+    background-color: #545454
+    !important;
+    color: #fedb6b !important;
+    border-color: black
+        !important;
+}
+.btn-primary:hover{
+    color: #fedb6b !important;
+    background-color: #868585
+    !important;
+    border-color: black
+    !important;
+}
+.card-body{
+    background-color: #545454 !important;
+    color: white !important;
+}
